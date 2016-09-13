@@ -1,0 +1,23 @@
+.widgets-page {
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+.widgets {
+	margin: 5px;
+	cursor: pointer;
+}
+
+.previous{
+	padding: 5px;
+	float: left;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+.next{
+	font-size: 16px;
+	padding: 5px;
+	float: right;
+	cursor: pointer;
+}

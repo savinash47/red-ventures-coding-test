@@ -1,0 +1,23 @@
+.create-widget-area{
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	margin-top: 20px;
+	margin-left: 35%;
+	padding: 10px 0px 20px 10px;
+	width: 30%;
+	height: 50%;
+}
+
+.widget-heading {
+	margin-top: 10px;
+	text-align: center;
+}
+
+.submit {
+	background-color: #2980b9;
+	cursor: pointer;
+	margin-top: 10px;
+	margin-left: 35%;
+	padding: 5px;
+	border-radius: 5px;
+}

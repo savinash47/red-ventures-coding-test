@@ -1,0 +1,27 @@
+.users-page {
+	text-align: center;
+}
+
+.user {
+	margin: 10px;
+	padding: 5px;
+	margin-left: 45%;
+	cursor: pointer;
+}	
+
+.user-name {
+	display: inline-block;
+	float:left;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+.user-avatar {
+	border-radius: 40px;
+	float:left;
+}
+
+.user-page {
+	box-sizing: border-box;
+	margin: 20px;
+}

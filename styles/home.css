@@ -1,0 +1,26 @@
+.users-section {
+	display: inline-block;
+	border-right: 2px solid #000;
+	padding: 40px 50px 20px 20px;
+	height: 180px;
+}
+
+.home-section {
+	position: relative;
+	text-align: center;
+	margin-top: 16%;
+	font-size: 140%;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.widget-section {
+	font-size: 14px;
+	font-weight: bold;
+	display: inline-block;
+	padding: 40px 20px 20px 50px;
+}
+
+.create-widget {
+	margin-top: 25px;
+}
