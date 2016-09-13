@@ -1,14 +1,17 @@
-##Red Ventures Coding Test
+#Red Ventures Coding Test
 
-#npm install - to download all the dependencies
+##npm install - 
+to download all the dependencies
 
-#npm run build - to run the build
+##npm run build - 
+to run the build
 
-#npm start - to start the server. Browse to localhost:5000
+##npm start - 
+to start the server. Browse to localhost:5000
 
 I have used webpack as module bundler and running express server. 
 
-#Assumptions
+##Assumptions
 
 1.I have added the search by name and id
 2. As there were like 500 widgets I have created the pagination to show 25 widgets on the page with next and previous buttons. Previous buttons is not seen on the first page, but can be seen on subsequent pages.
